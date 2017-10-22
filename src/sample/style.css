@@ -1,0 +1,49 @@
+.numButtons {
+    -fx-background-color: #d6d6d6;
+    -fx-border-color: #bfbfbf;
+}
+
+.buttonHover:hover {
+    -fx-background-color: #ececec;
+}
+
+.opButtons {
+    -fx-background-color: #f5923f;
+    -fx-border-color: #bfbfbf;
+}
+
+.opButtonsHover:hover {
+    -fx-background-color: #ffc567;
+}
+
+.clearButtons {
+    -fx-background-color: #f5e549;
+    -fx-border-color: #bfbfbf;
+}
+
+.clearButtonsHover:hover {
+    -fx-background-color: #ffe96a;
+}
+
+.funButtons {
+    -fx-background-color: #1b1b1b;
+    -fx-border-color: #bfbfbf;
+}
+
+.funButtonsHover:hover {
+    -fx-background-color: #3a3a3a;
+}
+
+.buttonPressed:pressed {
+    -fx-background-color: #42505e;
+}
+
+.input {
+    -fx-background-image: url("../images/inputbg.png");
+    -fx-border-color: #a8a2a4;
+}
+
+.error {
+    -fx-background-color: #1b1b1b;
+    -fx-border-color: #bfbfbf;
+}

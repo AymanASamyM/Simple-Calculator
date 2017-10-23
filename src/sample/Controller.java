@@ -1,13 +1,13 @@
 package sample;
 
-import eg.edu.alexu.csd.oop.calculator.cs54.MyCalculator;
 import javafx.event.ActionEvent;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import calculator.cs15.TheCalculator;
 
 public class Controller {
 
-    private MyCalculator calculator = new MyCalculator();
+    private TheCalculator calculator = new TheCalculator();
     public Label inputFormela;
     public Label statusLabel;
 

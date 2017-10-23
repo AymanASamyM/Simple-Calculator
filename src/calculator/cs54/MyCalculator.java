@@ -1,12 +1,8 @@
-package eg.edu.alexu.csd.oop.calculator.cs54;
+package calculator.cs54;
 
-import eg.edu.alexu.csd.oop.calculator.Calculator;
+import calculator.Calculator;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.LinkedList;
 
 /**
